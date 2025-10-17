@@ -1,0 +1,5 @@
+{
+  "name": "WhatsMARK AI Chatbot",
+  "description": "WhatsMARK is a WhatsApp-style AI chatbot powered by the Gemini API. Engage in natural conversations with an intelligent AI assistant in a familiar chat interface.",
+  "requestFramePermissions": []
+}
